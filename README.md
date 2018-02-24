@@ -9,7 +9,7 @@ Then, compile all source files using a Java compiler.
 
 ## Usage
 * How To Run the Automaton:
- * Double click ex11Q2.jar.
+  * Double click ex11Q2.jar.
 
 ### Additional Information:
 
