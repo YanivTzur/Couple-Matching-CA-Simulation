@@ -14,14 +14,14 @@ Then, compile all source files using a Java compiler.
 ### Additional Information:
 
 * Neighbors:
- * The neighborhood of a cell is all 8 cells around him.
+  * The neighborhood of a cell is all 8 cells around him.
 
 * Rules:
- * "Always Pair" - When two single persons of opposite sexes are neighbors, they
+  * "Always Pair" - When two single persons of opposite sexes are neighbors, they
 		   always form a pair if one of them is the most suitable
 		   partner in terms of compatibility of the other's neighbors.
- * "Stationary Pairs" - Couples don't move.
- * "Loyal Pairs" - Couples can't separate with their members creating new
+  * "Stationary Pairs" - Couples don't move.
+  * "Loyal Pairs" - Couples can't separate with their members creating new
 		   pairs.
 		   If disabled, each member of a couple can create a new couple
 		   only with a single person of the opposite sex (i.e. not
