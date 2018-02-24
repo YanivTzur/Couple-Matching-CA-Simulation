@@ -54,3 +54,7 @@ Then, compile all source files using a Java compiler.
 
 The time between generations in milliseconds can be configured by changing
 the UPDATE_INTERVAL constant in the CAController class and recompiling.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
